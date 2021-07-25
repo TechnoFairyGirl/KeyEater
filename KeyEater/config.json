@@ -1,0 +1,22 @@
+﻿{
+	"keyMappings":
+	[
+		{
+			"keys": [ "LControlKey", "LMenu", "D1" ],
+			"command": [ "C:\\Misc\\MultiMonitorTool\\MultiMonitorTool.exe", "/LoadConfig", "C:\\Misc\\MultiMonitorTool\\configs\\1.ini" ],
+		},
+		{
+			"keys": [ "LControlKey", "LMenu", "D2" ],
+			"command": [ "C:\\Misc\\MultiMonitorTool\\MultiMonitorTool.exe", "/LoadConfig", "C:\\Misc\\MultiMonitorTool\\configs\\2.ini" ],
+		},
+		{
+			"keys": [ "LControlKey", "LMenu", "D3" ],
+			"command": [ "C:\\Misc\\MultiMonitorTool\\MultiMonitorTool.exe", "/LoadConfig", "C:\\Misc\\MultiMonitorTool\\configs\\1,2.ini" ],
+		},
+		{
+			"keys": [ "LControlKey", "LMenu", "D4" ],
+			"command": [ "C:\\Misc\\MultiMonitorTool\\MultiMonitorTool.exe", "/LoadConfig", "C:\\Misc\\MultiMonitorTool\\configs\\3.ini" ],
+		},
+	],
+}
+
